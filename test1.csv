@@ -1,7 +1,7 @@
 Identifier,Headline,Version,Apply-to,Verified-release
 CSCvc95647,"CimcLowMem alert triggered due to KVM scriptable vmedia mount, false positive",3.1(2c)B,3.1(22a)S1,3.1(22a)S1
 CSCvc89242,FI rebooted due to CDP hap reset,2.2(6e)A,3.1(2.191)A 2.2(8f)AS8 3.1(2e)AS8,3.1(2.194)A
-CSCvc85609,Revert max power allocation changes in UCSM, 3.1,3.1(2.116)A,3.1(2.179a) 3.1(2.180)A 3.1(710.88)A 3.1(2e)AS12,3.1(2.192)A 3.1(2e)AS13
+CSCvc85609,Revert max power allocation changes in UCSM 3.1,3.1(2.116)A,3.1(2.179a) 3.1(2.180)A 3.1(710.88)A 3.1(2e)AS12,3.1(2.192)A 3.1(2e)AS13
 CSCvc39322,Y2 BIOS v3.1.2.2 failed HLK/HCK TPM tests on both WS2016 and 2012R2,3.1(2)BS18,2.0(13h)HS7 3.0(2.61)H 3.1(2.180)C 3.1(2e)CS4 2.2(8f)BS5 3.1(2e)BS5 3.1(2.195)B 3.1(710.85)B,2.2(8f)CS8 3.1(2.210f) 3.1(2e)TS7
 CSCvc31880,UCSM 3.1(2b) blade acknowledgement hangs at power check availability,3.1(2b)A,3.1(2.127b) 3.1(2e)AS12 3.1(2e)AS13,3.1(2.192)A 3.1(2e)AS13
 CSCvc31867,LSI/HDD FW Ver 32F3Q truncated to 2F3Q causing Unexpected Reboot depending of the Maintanace policy,3.1(2c)A,3.1(2.129c) 3.1(2.130)T 3.1(2.130)A 3.1(2f)TS1 2.2(8g)TS1 2.2(8h)T,3.1(2.153)A 3.1(2.153)C 3.1(2e)CS1 3.1(2e)AS1
