@@ -26,7 +26,8 @@ for i in array:
     print ('Defect:      ' + i[0])
     print ('Description: ' + i[1])
     print ('FBA:         ' + i[2])
-    print ('              String Length==' + len(i[2])
+    # print ('              String Length==') 
+    # print (len(i[2]))
     print ('Resolved in: 3.1(2f)')
     # for j in i:
     #     print ("the length of array j is")

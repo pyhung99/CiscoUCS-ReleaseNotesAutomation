@@ -1,7 +1,7 @@
 Identifier,Headline,Version,Apply-to,Verified-release
 CSCvc95647,"CimcLowMem alert triggered due to KVM scriptable vmedia mount, false positive",3.1(2c)B,3.1(22a)S1,3.1(22a)S1
 CSCvc89242,FI rebooted due to CDP hap reset,2.2(6e)A,3.1(2.191)A 2.2(8f)AS8 3.1(2e)AS8,3.1(2.194)A
-CSCvc85609,Revert max power allocation changes in UCSM 3.1,3.1(2.116)A,3.1(2.179a) 3.1(2.180)A 3.1(710.88)A 3.1(2e)AS12,3.1(2.192)A 3.1(2e)AS13
+CSCvc85609,Revert max power allocation changes in UCSM, 3.1,3.1(2.116)A,3.1(2.179a) 3.1(2.180)A 3.1(710.88)A 3.1(2e)AS12,3.1(2.192)A 3.1(2e)AS13
 CSCvc39322,Y2 BIOS v3.1.2.2 failed HLK/HCK TPM tests on both WS2016 and 2012R2,3.1(2)BS18,2.0(13h)HS7 3.0(2.61)H 3.1(2.180)C 3.1(2e)CS4 2.2(8f)BS5 3.1(2e)BS5 3.1(2.195)B 3.1(710.85)B,2.2(8f)CS8 3.1(2.210f) 3.1(2e)TS7
 CSCvc31880,UCSM 3.1(2b) blade acknowledgement hangs at power check availability,3.1(2b)A,3.1(2.127b) 3.1(2e)AS12 3.1(2e)AS13,3.1(2.192)A 3.1(2e)AS13
 CSCvc31867,LSI/HDD FW Ver 32F3Q truncated to 2F3Q causing Unexpected Reboot depending of the Maintanace policy,3.1(2c)A,3.1(2.129c) 3.1(2.130)T 3.1(2.130)A 3.1(2f)TS1 2.2(8g)TS1 2.2(8h)T,3.1(2.153)A 3.1(2.153)C 3.1(2e)CS1 3.1(2e)AS1
@@ -9,9 +9,9 @@ CSCvc29340,2304 IOM reboots with a kernel core,3.1(2c)A,3.1(2.181)A 3.1(2.192)A 
 CSCvc14810,VM traffic missing vlan translate entry,3.1(2c)A 3.1(1e)A,3.1(2.128)A 3.1(2e)AS8,3.1(2.134)A 3.1(2e)AS10
 CSCvc10791,DME crashes when dynamic vNIC and static vNIC has different adminvCon property value,2.2(3e)A,3.1(2.155d) 3.1(2.156)A 3.1(710.88)A 3.1(2e)AS11,3.1(2.156)A 3.1(1l)T 3.1(2e)AS12
 CSCvc06578,UCSM GRID mode - power budget drops to 2500 when single GRID source fails or two PSU fails,3.1(1g)A,3.1(2.127c) 3.1(2e)AS12,3.1(2.192)A 3.1(2e)AS13
-CSCvc03033,"once the blades powered on at once, there will be one server, fails in discovery with insuff power.",3.1(2b)A,3.1(2.116b) 3.1(2e)AS12,3.1(2.198)A 3.1(2e)AS13 3.1(2.218)A
+CSCvc03033,"once the blades powered on at once there will be one server fails in discovery with insuff power.",3.1(2b)A,3.1(2.116b) 3.1(2e)AS12,3.1(2.198)A 3.1(2e)AS13 3.1(2.218)A
 CSCvb85331,UCSM fault Replication Failure - Mgmt DB version mismatch,3.1(2b)A 2.2(8c)A,3.1(2.104b) 3.1(2e)AS3 2.2(8f)AS5,3.1(2.115c) 3.1(2e)AS3
-CSCvb69390,&quot;Input discards&quot; counter should not account the value of &quot;snmpIfOutDiscards&quot; counter of bcm,3.1(2b)A,3.1(2.105)A 3.1(2e)AS8,3.1(2.108)A 3.1(2e)AS10
+CSCvb69390,Input discards counter should not account the value of snmpIfOutDiscards counter of bcm,3.1(2b)A,3.1(2.105)A 3.1(2e)AS8,3.1(2.108)A 3.1(2e)AS10
 CSCvb63893,HX220: disk inventory shows partial list,3.1(2b)C,3.1(2e)BS1,2.0(13i)
 CSCvb52847,BMC is reporting Mux write error,3.1(2.64)B 3.1(2.64)A 3.1(2b)B,3.1(2.187)B 3.1(23)S2 3.1(22a)S2,3.1(2.206)A 3.1(2.206)B 3.1(2e)BS11
 CSCva35757,Latency between UCSM Client and FI causes FW page to load extremely slow,2.2(7b)A,3.1(2.41a) 3.1(2.42)A 3.1(2.67b) 3.1(2.68)A 3.1(2.68)T 3.1(2.79c) 3.1(2.80)A 2.2(8d)AS2 2.2(8e)A 3.1(2e)AS11,2.2(8d)AS3 3.1(2.85)A 3.1(2e)AS11
