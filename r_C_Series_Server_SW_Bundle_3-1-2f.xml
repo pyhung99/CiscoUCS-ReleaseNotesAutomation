@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//CISCO//DTD DITA 1.2 Reference v1.0//EN" "cisco-reference.dtd" [
+)]>
+<reference xml:lang="en_US">
+<title>SWT Unified Computing System (UCS) Server Software (C-Series) for 3.1(2f)</title>
+<refbody><section>
+<p>ucs-k9-bundle-c-series.3.1.2f.C.bin contains the following images:</p>
+<ul>
+<li><p>ucs-c-fusion-io-pfio1000mp.8.9.1.118126.bin</p></li>
+<li><p>ucs-c-fusion-io-pfio1000mps.8.9.1.118126.bin</p></li>
+<li><p>ucs-c-fusion-io-pfio1205m.7.1.17.bin</p></li>
+<li><p>ucs-c-fusion-io-pfio1300mp.8.9.1.118126.bin</p></li>
+<li><p>ucs-c-fusion-io-pfio1300mps.8.9.1.118126.bin</p></li>
+<li><p>ucs-c-fusion-io-pfio2600mp.8.9.1.118126.bin</p></li>
+<li><p>ucs-c-fusion-io-pfio2600mps.8.9.1.118126.bin</p></li>
+<li><p>ucs-c-fusion-io-pfio3000m.7.1.17.bin</p></li>
+<li><p>ucs-c-fusion-io-pfio3200mss.8.9.1.118126.bin</p></li>
+<li><p>ucs-c-fusion-io-pfio365m.7.1.17.bin</p></li>
+<li><p>ucs-c-fusion-io-pfio5200mp.8.9.1.118126.bin</p></li>
+<li><p>ucs-c-fusion-io-pfio5200mps.8.9.1.118126.bin</p></li>
+<li><p>ucs-c-fusion-io-pfio6400mss.8.9.1.118126.bin</p></li>
+</ul></section></refbody></reference>

@@ -1,9 +1,9 @@
 # This script filters through the nightly engineering builds for UCS Manager and finds the first bundle affected for a logged defect.
 
-# test2 = '3.1(2.191)A 2.2(8f)AS8 3.1(2e)AS8 3.1(2)BS18' 
+# test2 = '3.1(9.999)A 2.2(8f)AS9 3.1(2e)AS9 3.1(2)BS99' 
 # small testcase passes
 
-test3 = '3.1(2.41a) 3.1(2.42)A 3.1(2.67b) 3.1(2.68)A 3.1(2.68)T 3.1(2.79c) 3.1(2.80)A 2.2(8d)AS2 2.2(8e)A 3.1(2e)AS11 2.2(3i)B'
+test3 = '3.1(1.99a) 3.1(2.99)A 3.1(3.99b) 3.1(4.99)A 3.1(5.99)T 3.1(6.99c) 3.1(7.99)A 2.2(8d)AS9 2.2(8e)A 3.1(2e)AS99 2.2(3i)B'
 # Larger testcase passes now too 2.2(8e)A build and 2.2(3i)B released builds are the final 2 builds that should appear.
 # After sorting the last 2 results, only 2.2(3i)B which is the lowest build should be returned.
 print ('This is the list of builds to search through:  ' + str(test3))

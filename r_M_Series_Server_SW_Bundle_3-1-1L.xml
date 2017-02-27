@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//CISCO//DTD DITA 1.2 Reference v1.0//EN" "cisco-reference.dtd" [
+]>
+<reference xml:lang="en_US" id="reference_vbc_r3w_qy">
+	<title>SWT Unified Computing System (UCS) Server Software (M-Series) for 3.1(1l)</title>
+	<refbody>
+		<section id="section_7DF8C648DEA54F0D8E33734287F1B2A7">
+			<p>ucs-k9-bundle-m-series.3.1.1l.M.bin contains the following images: </p>
+			<ul>
+				<li><p>ucs-4308-brdprog.1.0.12.bin</p></li><li><p>
+				ucs-4308.2.0.9b.bin</p></li><li><p>
+				ucs-m-lsi-mrsas-9361-8i.24.5.3.1.bin</p></li><li><p>
+				ucs-m83-8p40-vic.4.1.1h.bin</p></li><li><p>
+				ucsme-1414-bios.UCSME.1414.2.0.9a.0.121020150149.bin</p></li><li><p>
+				ucsme-1414-k9-cimc.2.0.9a.bin</p></li><li><p>
+				ucsme-142-m4-bios.UCSME.142M4.2.0.9a.0.121020150140.bin</p></li><li><p>
+				ucsme-142-m4-k9-cimc.2.0.9a.bin</p></li><li><p>
+				ucsme-1625-bios.UCSME.1625.2.0.9a.0.030120161533.bin</p></li><li><p>
+				ucsme-1625-brdprog.6.0.bin</p></li><li><p>
+				ucsme-1625-k9-cimc.2.0.9b.bin</p></li><li><p>
+				ucsme-2814-bios.UCSME.2814.2.0.9a.0.112520151542.bin</p></li><li><p>
+				ucsme-2814-brdprog.3.0.bin</p></li><li><p>
+				ucsme-2814-k9-cimc.2.0.9a.bin</p></li>
+				</ul>
+		</section></refbody></reference>

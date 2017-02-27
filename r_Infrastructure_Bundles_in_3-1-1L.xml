@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//CISCO//DTD DITA 1.2 Reference v1.0//EN" "cisco-reference.dtd" [
+]>
+<reference xml:lang="en_US">
+	<title>SWT Unified Computing System (UCS) Infrastructure Software Bundle for 3.1(1l)</title>
+	<refbody>
+		<section>
+			<title>UCS-FI-6332 and UCS-FI-6332 16UP</title>
+			<p>ucs-6300-k9-bundle-infra.3.1.1l.A.bin contains the following images: </p>
+			<ul>
+				<li><p>ucs-2200-6300.3.1.1l.bin</p></li>
+				<li><p>ucs-2300-6300.3.1.1l.bin</p></li>
+				<li><p>ucs-6300-k9-kickstart.5.0.3.N2.3.11l.bin</p></li>
+				<li><p>ucs-6300-k9-system.5.0.3.N2.3.11l.bin</p></li>
+				<li><p>ucs-manager-k9.3.1.1l.bin</p></li>
+				</ul>
+			<title>UCS-FI6248UP and UCS-FI6296UP</title>
+			<p>ucs-k9-bundle-infra.3.1.1l.A.bin contains the following images: </p>
+			<ul>
+				<li><p>ucs-2200.3.1.1l.bin</p></li>
+				<li><p>ucs-6100-k9-kickstart.5.0.3.N2.3.11l.bin</p></li>
+				<li><p>ucs-6100-k9-system.5.0.3.N2.3.11l.bin</p></li>
+				<li><p>ucs-manager-k9.3.1.1l.bin</p></li>
+			</ul>
+			<title>UCS-FI-6324</title>
+			<p>ucs-mini-k9-bundle-infra.3.1.1l.A.bin contains the following images: </p>
+			<ul>
+				<li><p>ucs-2200.3.1.1l.bin</p></li>
+				<li><p>ucs-mini-k9-kickstart.5.0.3.N2.3.11l.bin</p></li>
+				<li><p>ucs-mini-k9-manager.3.1.1l.bin</p></li>
+				<li><p>ucs-mini-k9-system.5.0.3.N2.3.11l.bin</p></li>
+			</ul>
+		</section>
+	</refbody>
+</reference>

@@ -1,0 +1,21 @@
+Package ucs-mini-k9-bundle-infra.3.1.1l.A.bin:
+    Images:
+        ucs-2200.3.1.1l.bin
+        ucs-mini-k9-kickstart.5.0.3.N2.3.11l.bin
+        ucs-mini-k9-manager.3.1.1l.bin
+        ucs-mini-k9-system.5.0.3.N2.3.11l.bin
+
+Package ucs-k9-bundle-infra.3.1.1l.A.bin:
+    Images:
+        ucs-2200.3.1.1l.bin
+        ucs-6100-k9-kickstart.5.0.3.N2.3.11l.bin
+        ucs-6100-k9-system.5.0.3.N2.3.11l.bin
+        ucs-manager-k9.3.1.1l.bin
+
+Package ucs-6300-k9-bundle-infra.3.1.1l.A.bin:
+    Images:
+        ucs-2200-6300.3.1.1l.bin
+        ucs-2300-6300.3.1.1l.bin
+        ucs-6300-k9-kickstart.5.0.3.N2.3.11l.bin
+        ucs-6300-k9-system.5.0.3.N2.3.11l.bin
+        ucs-manager-k9.3.1.1l.bin

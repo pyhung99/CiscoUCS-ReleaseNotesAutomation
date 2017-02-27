@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//CISCO//DTD DITA 1.2 Reference v1.0//EN" "cisco-reference.dtd" [
+]>
+<reference xml:lang="en_US">
+<title>SWT Unified Computing System (UCS) Server Software (B-Series) for 3.1(2f)</title>
+<refbody><section>
+<p>ucs-k9-bundle-b-series.3.1.2f.B.bin contains the following images:</p>
+<ul>
+<li><p>cmc-psuDV-Delta.03.00.00.bin</p></li>
+<li><p>cmc-psuDV-Emerson.05.0b.bin</p></li>
+<li><p>ucs-b200-m1-k9-cimc.3.1.20c.bin</p></li>
+<li><p>ucs-b200-m1-sasctlr.01.32.09.00_06.34.00.00_03.22.00.00.bin</p></li>
+<li><p>ucs-b200-m2-bios.S5500.2.1.3c.0.081120151437.bin</p></li>
+<li><p>ucs-b200-m3-bios.B200M3.2.2.6d.0.062220160055.bin</p></li>
+<li><p>ucs-b200-m3-brdprog.15.0.bin</p></li>
+<li><p>ucs-b200-m3-k9-cimc.3.1.20c.bin</p></li>
+<li><p>ucs-b200-m3-mrsasctlr.20.12.1-0250_4.37.00_NA.bin</p></li>
+<li><p>ucs-b200-m4-bios.B200M4.3.1.3e.0.081120161737.bin</p></li>
+<li><p>ucs-b200-m4-brdprog.12.0.bin</p></li>
+</ul></section></refbody></reference>

@@ -1,0 +1,13 @@
+        ucs-c-fusion-io-pfio1000mp.8.9.1.118126.bin
+        ucs-c-fusion-io-pfio1000mps.8.9.1.118126.bin
+        ucs-c-fusion-io-pfio1205m.7.1.17.bin
+        ucs-c-fusion-io-pfio1300mp.8.9.1.118126.bin
+        ucs-c-fusion-io-pfio1300mps.8.9.1.118126.bin
+        ucs-c-fusion-io-pfio2600mp.8.9.1.118126.bin
+        ucs-c-fusion-io-pfio2600mps.8.9.1.118126.bin
+        ucs-c-fusion-io-pfio3000m.7.1.17.bin
+        ucs-c-fusion-io-pfio3200mss.8.9.1.118126.bin
+        ucs-c-fusion-io-pfio365m.7.1.17.bin
+        ucs-c-fusion-io-pfio5200mp.8.9.1.118126.bin
+        ucs-c-fusion-io-pfio5200mps.8.9.1.118126.bin
+        ucs-c-fusion-io-pfio6400mss.8.9.1.118126.bin
